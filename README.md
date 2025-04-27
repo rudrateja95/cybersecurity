@@ -21,6 +21,6 @@ A simple web application to analyze IP addresses and URLs for potential cybersec
 
 - Node.js and npm installed on your machine.
 - Python 3.x and Flask installed.
-- MongoDB (if using a database).
+
 
 
